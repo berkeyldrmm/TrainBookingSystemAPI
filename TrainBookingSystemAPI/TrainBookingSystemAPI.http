@@ -1,0 +1,6 @@
+@TrainBookingSystemAPI_HostAddress = http://localhost:5129
+
+GET {{TrainBookingSystemAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
